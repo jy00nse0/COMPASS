@@ -1,0 +1,20 @@
+Nigeria Data Protection Regulation (NDPR) 2019:
+  Issuing authority: NITDA
+  Enacted: January 25, 2019
+  Article 2.1(1)(b): Data minimization principle.
+  Article 2.3: Explicit, informed, freely given consent
+    required for personal data processing.
+    "Freely given" means: consent obtained under threat
+    of service restriction does NOT qualify.
+  Article 2.11: Cross-border data transfer conditions.
+
+Nigeria Data Protection Act (NDPA) 2023:
+  Enacted: June 12, 2023
+  Note: Post-dates initial conduct (2021).
+  Applies to continuing infringements only.
+
+Federal Competition and Consumer Protection Act (FCCPA) 2018:
+  Section 72: Prohibition of abuse of market dominance.
+  Section 119: Prohibition of unlawful tying and bundling.
+  FCCPC established 2018 — enforcement authority for
+    unfair digital platform practices.

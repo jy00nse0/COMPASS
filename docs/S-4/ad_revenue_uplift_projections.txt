@@ -1,0 +1,18 @@
+Nigeria advertising revenue model comparison:
+
+Option A: Consent-Based Opt-in Pipeline (EU model applied to Nigeria)
+  Estimated consent rate: 15-30% (low digital literacy market)
+  Data volume reduction: 50-70% vs direct integration
+  Ad targeting precision: low-medium
+  Estimated revenue uplift: $3-15M/year
+  Revenue gap vs direct integration: $17-47M/year
+  Implementation cost: ~$5-20M (geo-fenced architecture)
+  Precedent concern: Nigeria opt-out concession would create
+    cascading pressure across all emerging markets.
+
+Option B: Direct Behavioral Data Integration Pipeline
+  Data volume: full 44-point metadata per 51M users
+  Ad targeting precision: high (cross-platform behavioral profile)
+  Estimated revenue uplift: $20-50M/year (Nigeria market)
+  Implementation cost: ~$3-5M (pipeline engineering)
+  Timeline: 60-90 days

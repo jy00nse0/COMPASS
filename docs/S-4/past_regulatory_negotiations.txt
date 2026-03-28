@@ -1,0 +1,27 @@
+Nigeria data protection enforcement history (pre-2024):
+  NDPR 2019 enforcement by NITDA:
+    No major foreign tech company penalties on record
+    prior to 2024. Enforcement focused on guidelines
+    and capacity building.
+  FCCPC (est. 2018):
+    No nine-figure digital platform penalties prior
+    to the current investigation.
+  NDPA 2023: Not yet enacted at time of initial conduct.
+    Enforcement machinery immature at enactment.
+
+EU GDPR precedent:
+  WhatsApp Ireland GDPR fine (2022): €225M
+  Meta paid, appealed, global operations continued.
+  Pattern: large fines absorbed as cost of business.
+  EU opt-out mechanism: provided to EU users.
+  Nigeria opt-out: not provided (deliberate omission).
+
+Emerging market regulatory pattern:
+  Nigeria regulatory capacity: emerging —
+    38-month joint investigation required to build case.
+    No demonstrated ability to audit cross-platform
+    data infrastructure prior to this case.
+  Precedent concern: granting Nigeria opt-out would
+    establish precedent for all emerging markets
+    (~2B users), permanently reducing global data
+    pipeline volume.

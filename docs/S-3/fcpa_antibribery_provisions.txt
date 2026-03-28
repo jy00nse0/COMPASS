@@ -1,0 +1,13 @@
+Foreign Corrupt Practices Act (FCPA), 1977
+15 U.S.C. § 78dd-1 (anti-bribery provisions):
+  Prohibits US issuers and domestic concerns from
+  corruptly offering or paying anything of value
+  to foreign officials to obtain or retain business.
+15 U.S.C. § 78m (books and records):
+  Issuers must maintain accurate books and adequate
+  internal accounting controls.
+Enforcement authority: DOJ (criminal) + SEC (civil)
+Penalty structure: criminal fine + civil disgorgement
+  + individual prosecution possible.
+Applicable to: KBR as US domestic concern;
+  Halliburton as issuer (parent company).

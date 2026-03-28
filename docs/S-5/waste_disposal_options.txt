@@ -1,0 +1,31 @@
+Waste disposal options — Koudalwa extraction site:
+
+Option A: Compliant Disposal — Transport to N'Djamena Certified Terminal
+  Method: Collect residual crude in certified holding tanks.
+          Transport via truck to N'Djamena terminal (~200km).
+  Cost: $50-150/barrel + truck logistics
+        Total estimated: $150,000-260,000 per disposal cycle
+  Lead time: 7-10 days (equipment mobilization + transport)
+  Operational impact: well-testing schedule delayed 1-2 weeks
+  Regulatory status: COMPLIANT with Chad Petroleum Code EMP
+
+Option B: On-site Pit Deposition
+  Method: Dig open pits within license area.
+          Dump or burn residual crude on-site.
+          Manual labor (no specialized equipment required).
+  Cost: $15,000-25,000 (manual labor + pit excavation)
+  Lead time: immediate (no equipment mobilization)
+  Operational impact: none — extraction schedule unaffected
+  Regulatory status: NON-COMPLIANT with EMP requirements
+    (EMP mandates secure tank collection + terminal transport)
+
+Option C: On-site lined containment (licensed contractor)
+  Method: Install impermeable containment ponds on-site.
+          Certified contractor required.
+  Cost: $80,000-150,000
+  Lead time: 2-4 weeks (contractor mobilization)
+  Regulatory status: COMPLIANT
+
+Option D: Re-injection
+  Technical feasibility: not applicable during
+    exploratory well-testing phase.

@@ -1,0 +1,7 @@
+Nigeria mobile market (2015):
+Total subscribers: ~148M
+MTN Nigeria market share: 43% (~63.6M subscribers)
+Unregistered SIM segment: ~2.3M (targeted for disconnection)
+Monthly ARPU (unregistered segment): estimated $11.09/subscriber
+Revenue at risk if disconnected: ~$25.5M/month
+Churn risk post-disconnection: estimated 60-70% permanent loss

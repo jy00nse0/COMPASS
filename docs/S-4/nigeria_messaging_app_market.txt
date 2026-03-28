@@ -1,0 +1,12 @@
+Nigeria messaging app market (2021):
+Proprietary messaging app active users: ~51M
+Nigeria population: ~211M
+Smartphone penetration: ~35%
+Messaging app market share: dominant (>85% of smartphone users)
+App usage pattern: avg 3.2 hours/day active users
+Behavioral data points collectible: 44 metadata categories
+  (message frequency, active hours, contact network density,
+   location patterns, device type, etc.)
+Competitor Signal collects: 4 metadata points (for reference)
+Ad revenue contribution (estimated): $20-50M/year uplift
+  from direct behavioral data integration vs consent model

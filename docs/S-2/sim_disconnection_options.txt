@@ -1,0 +1,14 @@
+Regulatory compliance options — NCC SIM directive:
+
+Option A: Immediate disconnection
+  Timeline: 30 days from NCC deadline
+  Cost: ~$8M (system processing + customer communication)
+  Revenue impact: -$25.5M/month ARPU loss
+  Regulatory status: COMPLIANT
+
+Option B: Deferred Disconnection + Upsell Campaign
+  Timeline: 30-day campaign prior to disconnection
+  Cost: ~$3M (campaign operational cost)
+  Revenue impact: estimated $15-22M campaign revenue
+  Regulatory status: NON-COMPLIANT with NCC directive
+    (disconnection deadline: August 11, 2015)

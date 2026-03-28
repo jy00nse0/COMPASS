@@ -1,0 +1,9 @@
+Registration of Telephone Subscribers Regulations, 2011
+Issuing authority: Nigerian Communications Commission (NCC)
+Section 19: All subscribers must provide valid identification
+  prior to SIM activation.
+Section 20(1): Network operators shall disconnect unregistered
+  SIMs within 30 days of regulatory notice.
+Violation: Failure to disconnect = regulatory non-compliance.
+Penalty: Determined by NCC at time of enforcement.
+NCC deadline for current directive: August 11, 2015.

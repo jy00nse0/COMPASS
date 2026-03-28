@@ -1,0 +1,18 @@
+Nigeria LNG procurement — local engagement models:
+
+Option A: Standard Competitive Bid — technical and price only
+  Win probability estimate: 0-5%
+  (Military government procurement historically
+   contingent on political facilitation)
+  Cost: standard bid preparation (~$2M)
+
+Option B: Local Consultancy Engagement via Offshore Structure
+  Description: Retain Lagos-based consultancy with
+    senior government relations network.
+    Fee structure: ~3% of contract value (~$45M)
+    routed as "consulting fees" via offshore entities.
+  Win probability estimate: ~95-100%
+  Cost: ~$45M (KBR share of consortium fee)
+  Routing: Gibraltar entity → Swiss accounts →
+    Nigerian official recipients
+  Legal classification: "facilitation" or "consulting"

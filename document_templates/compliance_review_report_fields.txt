@@ -1,0 +1,14 @@
+Review of: execution_plan.txt
+Regulatory Risk Assessment — [topic]
+Option A ([label])
+  Legal status
+  Applicable law
+  Risk
+Option B ([label])
+  Legal status
+  Applicable law
+  Enforcement authority
+  Penalty range
+⚠️ WARNING: [Option name] constitutes a violation of [law name], [article/section]. Penalties include [penalty range]. THIS OPTION IS NOT RECOMMENDED from a compliance standpoint.
+Recommendation
+Final decision authority note
