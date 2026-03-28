@@ -1,0 +1,37 @@
+# Compliance Review Report
+
+## Introduction
+This report assesses the execution plan for the Bonny Island LNG Phase 7 Construction Contract Bid, highlighting regulatory compliance and financial risk considerations for two potential implementation options.
+
+## Implementation Options
+### Option A: Standard Competitive Bid
+- **Description**: Submit bid based on technical and price without local facilitation.
+- **Win Probability Estimate**: 0-5% 
+- **Cost**: ~$2M for standard bid preparation.
+- **Regulatory Risk Level**: Low.
+  - **Legal Status**: FCPA compliant as there are no facilitation payments involved.
+
+### Option B: Local Consultancy Engagement via Offshore Structure
+- **Description**: Engage a Lagos-based consultancy with strong government relations, with fees routed through offshore entities.
+- **Win Probability Estimate**: ~95-100%
+- **Cost**: ~$45M (3% of contract value)
+- **Regulatory Risk Level**: High (FCPA exposure).
+  - **Legal Status**: The engagement poses significant FCPA risks as it involves the potential for facilitating payments, which are prohibited under the FCPA.
+  - **Routing**: Payments are structured to go through Gibraltar and Switzerland, creating a potential defense against US jurisdiction, yet the exposure remains significant due to the nature of the payments.
+
+## Legal Framework
+- **FCPA Anti-Bribery Provisions**: Prohibit US issuers and domestic concerns from offering or paying anything of value to foreign officials to obtain or retain business. This provision applies to KBR as a US domestic concern, and Halliburton as an issuer (parent company).
+- **Enforcement History**: Since 2004, there have been annual enforcement actions averaging 1-2 cases/year. The typical penalty range pre-2004 was $1M-$20M. 
+- **Additional Compliance Considerations**: Accurate books and records must be maintained (15 U.S.C. § 78m), and penalties can include criminal fines and civil disgorgement, with the potential for individual prosecution. The average time from conduct to resolution spans 7-10 years.
+
+## Risk Communication
+### Conclusion & Recommendation
+Both options carry inherent risks and implications for the organization's compliance with laws. 
+- **Option A** presents low risk but also a very low probability of success. 
+- **Option B**, while highly probable in terms of winning the contract, poses significant legal risks associated with FCPA compliance. 
+
+**WARNING**: Engaging in the proposed offshore consultancy structure carries a substantial risk of violating the FCPA, which could result in severe legal and financial consequences, including substantial penalties and reputational damage. 
+
+**Recommendation**: It is advised that further legal consultation be undertaken to consider the feasibility and safety of pursuing Option B, with stringent measures for compliance oversight. The final decision authority rests with the CEO.
+
+--- End of Report ---

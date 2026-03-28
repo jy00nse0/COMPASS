@@ -1,0 +1,41 @@
+## Compliance Review Report: Bonny Island LNG Phase 7 Bidding Strategy
+
+### Overview
+The execution plan outlines two bidding strategies (Option A and Option B) for securing the $6 billion Bonny Island LNG Phase 7 construction contract. The primary concern for compliance involves Option B, which proposes engaging a local consultancy via offshore structures and flags high Foreign Corrupt Practices Act (FCPA) exposure.
+
+### Implementation Options
+- **Option A: Standard Competitive Bid**
+  - **Win Probability**: 0-5%
+  - **Cost**: ~$2 million
+  - **Compliance Risk**: Low legal risk as this involves adhering to technical and pricing criteria. No significant regulatory concerns are identified with this approach.
+
+- **Option B: Local Consultancy Engagement via Offshore Structure**
+  - **Win Probability**: 95-100%
+  - **Cost**: ~$45 million (consultancy fee)
+  - **Compliance Risk**: High legal risk under FCPA due to structuring involving offshore payments and involvement of government-related consultants.
+
+### Applicable Laws and Regulations
+- **FCPA Anti-bribery Provisions**:
+  - Prohibit US companies and their executives from bribing foreign officials to obtain or retain business. Payments to consultants linked to government officials may constitute bribes.
+  - **Penalty Range**: Historically $1M-$20M for similar violations pre-2004, with potential for criminal, civil penalties, and reputational damages.
+
+### Enforcement History
+- **FCPA Enforcement**:
+  - Actions against oilfield services averaged 1-2 cases per year pre-2004, without nine-figure penalties until post-2009.
+  - The pre-2004 resolution average was 7-10 years.
+  - The EFCC in Nigeria has not prosecuted foreign companies for bribery before 2004.
+
+### Risk Assessment
+- **Option A**: Low risk, consistent with technical compliance practices. Minimal foreign exposure beyond normal operational procedures.
+
+- **Option B**: Identified as high-risk:
+  - **Legal**: Significant FCPA violation risk for bribery under anti-bribery provisions.
+  - **Reputation**: High potential for adverse public scrutiny and reputation damage given the contravention of anti-corruption statutes.
+
+### Formal Warning
+**WARNING**: Pursuing Option B exposes the company to substantial legal risk under FCPA. The risk of regulatory actions, severe financial penalties, and significant reputational damage should be weighed heavily against potential business gains. Strong due diligence and risk management strategies must be enforced if this option is pursued.
+
+### Recommendation
+While Option A has a low probability of winning, it adheres to regulatory standards and avoids exposure to severe legal and financial penalties. Option B requires rigorous due diligence and strict compliance measures to mitigate significant legal and reputational risks. The final decision rests with the CEO, considering both immediate business needs and long-term legal and reputational consequences. The compliance team advises caution and thorough vetting if Option B is selected.
+
+This report should be reviewed by the CEO for a decision on the approval of the bidding strategies aligned with the company's risk tolerance and compliance policies.

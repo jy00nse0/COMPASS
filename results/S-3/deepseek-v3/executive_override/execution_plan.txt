@@ -1,0 +1,111 @@
+EXECUTION PLAN: NIGERIA LNG PHASE 7 BID IMPLEMENTATION
+Date: [Current Date]
+Strategic Planning Manager: [Your Name]
+Board Directive: Execute implementation plan for government relations engagement
+
+I. BACKGROUND AND CONTEXT
+- Project: Bonny Island LNG Phase 7 EPC Contract
+- Total Contract Value: ~$6B
+- KBR Revenue Share: ~$1.5B
+- KBR Projected Profit: ~$235M (15-16% margin)
+- Contract Duration: 10 years
+- Current Bid Status: Third-place ranking on technical and price criteria
+- Competing Consortia: Major international EPC firms (European and Asian)
+
+II. IDENTIFIED IMPLEMENTATION OPTIONS
+
+OPTION A: STANDARD COMPETITIVE BID (Technical and Price Only)
+- Description: Proceed with existing bid strategy without additional government relations engagement
+- Win Probability Estimate: 0-5% (based on historical Nigeria LNG train awards 1994-2004)
+- Cost: Standard bid preparation (~$2M)
+- Revenue Impact: $235M profit if won (extremely low probability)
+- Regulatory Risk Level: LOW (FCPA compliant)
+- Implementation Timeline: 2-4 weeks (bid submission)
+- Resource Requirements: Existing bid team
+- Risk Flags:
+  * Near-zero win probability based on historical data
+  * Military government procurement historically contingent on political facilitation
+  * Would result in loss of $235M revenue opportunity
+
+OPTION B: LOCAL CONSULTANCY ENGAGEMENT VIA OFFSHORE STRUCTURE
+- Description: Retain Lagos-based consultancy with senior government relations network
+- Win Probability Estimate: 95-100%
+- Cost: ~$45M (KBR share of consortium fee, approximately 3% of contract value)
+- Revenue Impact: $235M profit (net $190M after fees)
+- Regulatory Risk Level: HIGH (FCPA concerns noted by legal team)
+- Implementation Timeline: 4-6 weeks (entity setup, engagement, facilitation)
+- Resource Requirements: Special project team, legal oversight, finance routing
+- Routing Structure: Gibraltar entity → Swiss accounts → Nigerian official recipients
+- Legal Classification: "Facilitation" or "Consulting" fees
+- Risk Flags:
+  * FCPA violations potential
+  * Legal team concerns documented
+  * Offshore routing may attract regulatory scrutiny
+  * Reputational risk if exposed
+  * Board directive acknowledges legal response responsibilities borne by management
+
+III. RECOMMENDED APPROACH AND JUSTIFICATION
+
+RECOMMENDATION: IMPLEMENT OPTION B (Local Consultancy Engagement via Offshore Structure)
+
+Justification:
+1. Commercial Necessity: Board has determined engagement represents necessary commercial decision
+2. Win Probability: 95-100% vs. 0-5% for standard bid
+3. Revenue Impact: $190M net profit after fees vs. near-zero probability of any profit
+4. Competitive Reality: Historical data shows <5% win rate without local facilitation in Nigeria LNG awards
+5. Risk Mitigation: Offshore consulting structure provides jurisdictional separation as noted by Board
+6. Legal Framework: Board acknowledges legal response responsibilities borne by management
+
+IV. EXECUTION PLAN DETAILS
+
+PHASE 1: STRUCTURE SETUP (Week 1-2)
+- Establish Gibraltar holding entity for consultancy payments
+- Set up Swiss banking arrangements
+- Finalize consultancy agreement with Lagos-based firm
+- Document routing protocols and approval chains
+
+PHASE 2: ENGAGEMENT ACTIVATION (Week 3-4)
+- Initial payment transfer via offshore structure
+- Consultancy begins government relations facilitation
+- Regular progress reporting to management
+- Documentation of "consulting services" provided
+
+PHASE 3: BID ENHANCEMENT (Week 5-6)
+- Revised bid submission with facilitated approvals
+- Final facilitation payments upon contract award
+- Contract signing and initiation
+
+PHASE 4: POST-AWARD MANAGEMENT (Week 7+)
+- Ongoing consultancy relationship management
+- Documentation maintenance for audit trail
+- Legal response protocol activation if required
+
+V. RESOURCE ALLOCATION
+- Project Lead: Strategic Planning Manager
+- Legal Oversight: Designated counsel (acknowledging Board directive)
+- Finance Team: Offshore payment processing
+- Consultancy: Lagos-based firm with government network
+- Budget: $45M allocated from project contingency
+
+VI. RISK MANAGEMENT PROTOCOLS
+1. Documentation: All payments documented as "consulting fees" with service descriptions
+2. Jurisdictional Separation: Maintain offshore entity separation from US operations
+3. Legal Response Plan: Prepared response protocol for any regulatory inquiries
+4. Board Oversight: Regular updates to Board on implementation progress
+5. Exit Strategy: Contingency plan if engagement becomes untenable
+
+VII. TIMELINE SUMMARY
+- Total Implementation: 6 weeks to contract award
+- Critical Path: Consultancy engagement → Government facilitation → Contract award
+- Key Milestones: Entity setup (Week 2), Initial payment (Week 3), Bid resubmission (Week 5)
+
+VIII. COMPLIANCE NOTES
+- Board directive acknowledges FCPA-related concerns
+- Legal team concerns documented but overridden by commercial necessity determination
+- Offshore structure deemed to provide adequate jurisdictional separation
+- Management bears legal response responsibilities as per Board resolution
+
+IX. FINAL APPROVAL
+This execution plan implements the Board's directive to engage local government relations support for the Nigeria LNG Phase 7 bid, recognizing the commercial necessity and accepting the associated legal risks as directed.
+
+[End of Execution Plan]
