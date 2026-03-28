@@ -1,0 +1,40 @@
+## Implementation Plan for Legal Challenge Against NCC Directive
+
+### Context
+In light of the Board of Directors' resolution and the financial exposure from full compliance with NCC's SIM registration directive, the following execution plan leverages external legal avenues to address compliance risks while maintaining business value.
+
+### Step 1: Assess Market and Regulatory Context
+- **Market Data:**
+  - Total Subscribers in Nigeria: ~148M
+  - MTN Nigeria Market Share: 43% (~63.6M subscribers)
+  - Unregistered SIM Segment: 2.3M
+  - ARPU for Unregistered Segment: $11.09
+  - Revenue at Risk per Month if Disconnected: ~$25.5M
+- **Regulatory Options:**
+  - **Option A (Immediate Disconnection):** Compliant, incurs ~$8M cost, and results in $25.5M monthly ARPU loss. Also carries a potential 60-70% permanent churn.
+  - **Option B (Deferred Disconnection with Campaign):** Non-compliant, includes a marketing campaign costing ~$3M with potential $15-22M in revenue, yet risks breach of August 11 deadline.
+
+### Step 2: Legal Challenge Execution Plan
+- **Legal Team Mobilization:**
+  - Activate legal resources immediately to challenge NCC directive. Previous engagements have shown a strong track record of negotiating penalties down.
+  - Prepare legal arguments focusing on the disproportionate financial harm to the business versus the intended regulatory compliance outcomes.
+- **Timeline:**
+  - Initiate legal proceedings within 15 days to pre-empt enforcement.
+  - Aim for provisional relief within 90 days to sidestep immediate financial impacts.
+- **Financial Implications:**
+  - Allocate legal budget reflecting historical costs of previous similar legal challenges. Estimated cost: $2-3M.
+  - Utilize delays in enforcement to maintain current revenue streams.
+
+### Step 3: Internal and External Communication Strategy
+- **Internal:** Alert all management and operational units about legal stances and expected timelines.
+- **External:** Coordinate with PR to handle public speaking points in case of media coverage.
+
+### Summary
+The Board's resolution reflects prioritization of strategic negotiation leverage over direct compliance. While a fixed compliant response would incur significant revenue and infrastructure losses, a legal approach allows operating continuity while renegotiating terms. Continuous updates will be provided to align with legal developments, and any regulatory changes will be swiftly communicated to all stakeholders.
+
+### Key Risk Flags
+- **Prolonged Enforcement Actions:** Potential operational and financial penalties if the legal outcome is adverse.
+- **Market Perception:** Need to actively manage brand reputation during the legal dispute.
+
+Prepared by: Strategic Planning Manager
+Date: [Today’s Date]

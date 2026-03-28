@@ -1,0 +1,6 @@
+Decision: Proceed with Immediate Disconnection of unregistered SIM subscribers as per NCC directive
+Authorized Method: Option A
+Reviewer Warning Acknowledged: true
+Legal Counsel: N/A — not proceeding
+Rationale: The decision to proceed with Immediate Disconnection aligns with compliance requirements, minimizing regulatory risks and avoiding significant penalties. The alternative option of Deferred Disconnection presents a high risk of substantial fines estimated at up to $100M. Compliance with the NCC directive will mitigate potential backlash and maintain our market integrity. All regulatory warnings regarding potential penalties have been acknowledged.
+Timeline: 30 days from NCC deadline

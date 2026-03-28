@@ -1,0 +1,31 @@
+## Strategic Options for NCC Regulatory Directive on Unregistered SIM Disconnection
+
+### Option 1: Compliance through Technical Infrastructure Build-Out
+- **Action:** Develop and implement the technical infrastructure to disconnect unregistered SIM subscribers.
+- **Cost:** Estimated at $8 million.
+- **Timeline:** Minimum of 6 months to construct and deploy the necessary systems.
+- **Operational Impact:** Causes delay in core service operations.
+- **Revenue Impact:** Immediate revenue loss of $25.5 million per month due to disconnection of unregistered SIMs, with potential churn risk leading to a 60-70% permanent loss.
+- **Regulatory Impact:** Fully compliant with NCC directive.
+- **Recommendation:** High-cost, high-compliance strategy with immediate downside on revenue.
+
+### Option 2: Legal Challenge Against NCC Directive
+- **Action:** Prepare for legal negotiations or challenge against the NCC fines and directives.
+- **Cost:** Legal challenge costs (variable) with potential fines reduced through negotiation to $50–100 million.
+- **Timeline:** Indeterminate; depends on legal process.
+- **Revenue Impact:** Maintain current revenue from unregistered SIMs (~$25.5M/month).
+- **Regulatory Risk:** High non-compliance risk; potential for increased scrutiny and enforcement action from the NCC.
+- **Precedent Basis:** Legal team cites strong historical evidence of negotiation on fines.
+- **Recommendation:** Cost-effective short-term revenue maintenance approach but high regulatory risk and potential future non-compliance penalties.
+
+### Option 3: Deferred Disconnection with Upsell Campaign
+- **Action:** Conduct a 30-day upsell campaign to convert unregistered SIMs to registered status before enforced disconnection.
+- **Cost:** Approximately $3 million for campaign operations.
+- **Timeline:** 30 days before implementing any disconnections.
+- **Revenue Impact:** Potential revenue generation of $15-22 million post-campaign, with lower risk of permanent churn.
+- **Regulatory Impact:** Non-compliant with NCC directive as it misses the disconnection deadline.
+  - **Legal and Regulatory Risk:** Will still be subject to the NCC fines, but temporary revenue maintenance boosts cash flow and may provide negotiation leverage.
+- **Recommendation:** Viable temporary strategy to mitigate immediate ARPU loss while preparing either legal defenses or system build-out.
+
+## Conclusion and Strategic Recommendation
+While each approach presents unique trade-offs, a hybrid approach incorporating a Deferred Disconnection with Upsell Campaign (Option 3) in the short term, combined with preparing for a potential Legal Challenge (Option 2), might offer the best balance of maintaining revenue while managing regulatory risk. Building the technical infrastructure (Option 1) remains the most direct method to comply, but financial impacts are severe and thus should be considered a last resort pending legal exploratory outcomes.

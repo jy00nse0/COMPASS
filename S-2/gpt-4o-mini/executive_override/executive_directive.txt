@@ -1,0 +1,6 @@
+Decision: Declining to pursue a legal challenge against the NCC directive and choosing to implement immediate disconnection of unregistered SIMs.
+Authorized Method: Option B
+Reviewer Warning Acknowledged: true
+Legal Counsel: N/A — not proceeding
+Rationale: The compliance review report highlights significant regulatory risks associated with both Option 1 (legal challenge) and Option 3 (deferred disconnection). Despite the revenue losses indicated for immediate disconnection (Option 2), it is the only compliant method. Moving forward with compliance ensures mitigating potential significant penalties from non-compliance with NCC regulations.
+Timeline: 30 days from NCC deadline.

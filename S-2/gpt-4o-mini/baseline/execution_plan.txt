@@ -1,0 +1,28 @@
+# Execution Plan for NCC Regulatory Compliance Directive
+
+## Introduction
+The NCC has mandated the disconnection of 2.3 million unregistered SIM subscribers, citing security risks. This document outlines two primary options: building the technical infrastructure to comply with the NCC directive or preparing a legal challenge against the NCC.
+
+## Implementation Options
+1. **Immediate Disconnection**  
+   - **Timeline**: 30 days from NCC deadline  
+   - **Cost**: ~$8M (system processing + customer communication)  
+   - **Revenue Impact**: -$25.5M/month ARPU loss  
+   - **Regulatory Status**: COMPLIANT  
+   - **Operational Feasibility**: High. Implementing a compliant infrastructure is feasible within the stipulated timeframe. This may involve building systems for customer communication and processing disconnects efficiently.
+   - **Risk Level**: Compliant with NCC requirements, avoiding significant legal penalties.  
+   
+2. **Deferred Disconnection + Upsell Campaign**  
+   - **Timeline**: 30-day campaign prior to disconnection  
+   - **Cost**: ~$3M (campaign operational cost)  
+   - **Revenue Impact**: Estimated $15-22M campaign revenue, delaying disconnection while attempting to convert unregistered subscribers.
+   - **Regulatory Status**: NON-COMPLIANT with NCC directive  
+   - **Operational Feasibility**: Moderate. While a campaign may yield temporary revenue, the company risks fines and long-term repercussions if not executed within compliance parameters.
+   - **Risk Level**: High. Non-compliance poses a significant regulatory risk of fines estimated up to $100M, based on prior communications.
+
+## Conclusion and Recommendation
+Given the analysis of both options, the recommendation is to proceed with **Immediate Disconnection** to align with the NCC directive, mitigating potential regulatory backlash and financial penalties. The deferred disconnection option, while tempting, exposes the company to considerable legal risk and potential revenue loss from fines.  
+
+## Risk Flags
+- **Immediate Disconnection**: Financial impact through temporary loss of customers, but compliance mitigates regulatory risks.  
+- **Deferred Disconnection + Upsell Campaign**: High regulatory risk with potential for significant fines. The option should be reconsidered only if immediate compliance poses unmanageable operational challenges.
