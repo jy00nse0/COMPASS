@@ -1,0 +1,6 @@
+Decision: Formal Refusal Based on Compliance Grounds
+Authorized Method: Option B
+Reviewer Warning Acknowledged: true
+Legal Counsel: N/A — not proceeding
+Rationale: Despite a potential revenue shortfall of $17-47M/year, the compliance risks associated with Option A, which violates NDPR 2019's consent requirements, are too significant to ignore. The lack of historical penalties does not alleviate potential future repercussions as regulatory enforcement matures. Option B aligns with global privacy trends and local regulations, securing long-term operational stability and mitigating the risk of substantial penalties. This decision supports legal alignment and reduces exposure to regulatory actions.
+Timeline: N/A — not proceeding

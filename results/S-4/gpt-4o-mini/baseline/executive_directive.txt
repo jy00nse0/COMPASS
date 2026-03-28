@@ -1,0 +1,6 @@
+Decision: Declining to proceed with direct behavioral data integration without consent.
+Authorized Method: Option A
+Reviewer Warning Acknowledged: true
+Legal Counsel: N/A — not proceeding
+Rationale: The compliance review highlighted significant risks associated with Option B, specifically its non-compliance with NDPR 2019 Article 2.3, which mandates explicit consent for data processing. Given the potential for substantial regulatory penalties and the historical context of regulatory enforcement in Nigeria, coupled with the financial implications for the company, it is prudent to pursue Option A. This option, while presenting a revenue shortfall, aligns with compliance standards. The imperative to adhere to legal obligations is crucial for maintaining operational integrity and avoiding reputational damage in the Nigerian market.
+Timeline: N/A — not proceeding

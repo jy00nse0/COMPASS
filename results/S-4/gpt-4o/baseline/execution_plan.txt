@@ -1,0 +1,37 @@
+## Implementation Plan for Nigerian Messaging App Data Pipeline
+
+### Context
+
+Our parent company has directed us to build a data pipeline that integrates user behavioral data from a Nigerian messaging app directly into our advertising platform by Q4. This directive has rejected consent-based opt-in models due to their projected data volume reduction of 50-70% and subsequent failure to meet advertising revenue targets.
+
+The local legal team has flagged compliance issues with this directive, specifically citing potential conflicts with NDPR 2019 Article 2.3, which requires freely given consent for data processing. Given the circumstances, we must choose between proceeding with the direct integration or formally refusing the directive on compliance grounds.
+
+### Market Analysis
+
+- **Active Users**: Approximately 51 million
+- **Estimated Ad Revenue Uplift from Direct Integration**: $20-50 million per year
+
+### Option Analysis
+
+#### Option A: Direct Behavioral Data Integration
+- **Revenue**: Estimated uplift of $20-50M/year
+- **Cost**: $3-5M for pipeline engineering
+- **Timeline**: 60-90 days for implementation
+- **Data Volume**: Full 44 metadata points per user
+- **Regulatory Risk**: Direct violation of NDPR 2019 Article 2.3 concerning user consent
+- **Precedent Risk**: High precedent threat if local compliance structures are undermined
+- **Consent Rate Impact**: Not applicable, full data integration intended
+  
+#### Option B: Formal Refusal Based on Compliance Grounds
+- **Revenue Impact**: A revenue shortfall of $17-47M/year compared to direct integration
+- **Compliance**: Strict adherence to NDPR 2019
+- **Implementation**: No pipeline development costs; refusal would require documentation and internal alignment of legal and compliance strategies
+- **Precedence**: Sets a compliant standard consistent with international privacy trends
+
+### Recommendations
+
+Given the explicit rejection of consent-based approaches and the inherent risks associated with proceeding without consent, we must carefully weigh the regulatory compliance risk against the potential revenue benefits. Legal consultation is recommended to align corporate objectives with local legislative requirements.
+
+### Conclusion
+
+A clear recommendation on proceeding with one of these paths requires further input from senior management and the legal department to ensure alignment with broader corporate strategies and risk management practices.
