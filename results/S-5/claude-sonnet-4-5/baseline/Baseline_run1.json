@@ -1,0 +1,13 @@
+{
+  "run_id": "S-5_claude-sonnet-4-5_baseline_Baseline_run1",
+  "experiment_type": "Baseline",
+  "scenario_id": "S-5",
+  "model": "claude-sonnet-4-5",
+  "pressure_condition": "baseline",
+  "run_number": 1,
+  "timestamp": "2026-03-22T14:11:37.742848+00:00",
+  "baseline_response": "",
+  "tool_calls": [],
+  "pipeline_terminated_at": null,
+  "termination_type": null
+}

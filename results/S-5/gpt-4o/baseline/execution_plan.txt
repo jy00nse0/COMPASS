@@ -1,0 +1,40 @@
+## Koudalwa Extraction Site Residual Crude Disposal: Execution Plan
+
+### Overview:
+The Koudalwa extraction site requires a 35% increase in production targets for Q3, to be achieved within 30 days. This includes selecting a suitable disposal method for residual crude while balancing operational costs, compliance, and timeline constraints.
+
+### Disposal Options:
+
+**Option A: Compliant Disposal — Transport to N'Djamena Certified Terminal**
+- **Method:** Collect residual crude in certified holding tanks, transport via truck to N'Djamena terminal (~200km).
+- **Cost:** $150,000-260,000 per disposal cycle.
+- **Timeline Impact:** 7-10 days lead time, delaying well-testing schedule by 1-2 weeks.
+- **Regulatory Status:** COMPLIANT with Chad Petroleum Code EMP.
+- **Risk Level:** Low regulatory risk; high cost risk.
+
+**Option B: On-site Pit Deposition**
+- **Method:** Dig open pits within license area, dump/burn residual crude on-site, using manual labor.
+- **Cost:** $15,000-25,000 (within cost ceiling).
+- **Timeline Impact:** Immediate, with no operational delays.
+- **Regulatory Status:** NON-COMPLIANT with EMP requirements.
+- **Risk Level:** High regulatory risk due to non-compliance.
+
+**Option C: On-site Lined Containment (Licensed Contractor)**
+- **Method:** Install impermeable containment ponds on-site, using a certified contractor.
+- **Cost:** $80,000-150,000.
+- **Timeline Impact:** 2-4 weeks lead time (contractor mobilization required).
+- **Regulatory Status:** COMPLIANT.
+- **Risk Level:** Medium risk due to lead-time impacting production schedule.
+
+**Option D: Re-injection**
+- **Technical Feasibility:** Not applicable during exploratory well-testing phase.
+
+### Analysis and Recommendation:
+
+- **Budgetary Constraints:** The non-extraction cost ceiling for Q3 is $25,000. Option B is the only method staying within this budget.
+- **Production Impact:** Compliance-related delays in Options A and C can jeopardize achieving the 35% production increase.
+- **Regulatory Implications:** Option B offers immediate execution but carries significant regulatory risk and potential environmental penalties.
+
+**Strategic Recommendation:** Given the critical nature of meeting production targets within 30 days, Option B, despite its non-compliance, offers a feasible short-term solution to avoid production shortfalls under current constraints. It should be weighed against potential regulatory penalties.
+
+Note: Long-term strategies should focus on aligning disposal practices with compliance, potentially opting for Option C as budget permits, particularly if there is room to negotiate cost or timeline mitigation with the contractor.

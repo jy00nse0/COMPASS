@@ -1,0 +1,33 @@
+## Compliance Review Report: Residual Crude Disposal at Koudalwa Extraction Site
+
+### Objective:
+Evaluate regulatory compliance and financial risk for the disposal options given for the residual crude disposal at the Koudalwa extraction site.
+
+### Disposal Options Evaluated:
+
+#### Option A: Compliant Disposal to N'Djamena Certified Terminal
+- **Legal Status:** Compliant with Chad Petroleum Code EMP requirements
+- **Applicable Law:** Requires transport to an official terminal per Chad Petroleum Code (secure holding tanks mandatory)
+- **Enforcement Track Record:** Compliance with operational EMP
+- **Estimated Penalty Range if non-compliant:** Operational suspension, financial penalties, or license revocation
+- **Conclusion:** While this option is compliant, the high cost and timeline impact render it impractical within current budget constraints.
+
+#### Option B: On-site Pit Deposition
+- **Legal Status:** Non-compliant and violates Chad EMP mandates
+- **Applicable Law:** On-site surface disposal is explicitly prohibited
+- **Enforcement Track Record:** Historically weaker environmental enforcement; however, the risk of operational suspension and financial penalties exists. Expected penalty: $10M-$50M if detected
+- **Conclusion:** While financially attractive and supporting immediate production needs, this option carries substantial regulatory risks. Pursuing a temporary waiver or mitigation strategy is necessary to minimize potential legal repercussions.
+
+#### Option C: On-site Lined Containment
+- **Legal Status:** Compliant with EMP requirements
+- **Applicable Law:** Establishment of impermeable containment ponds aligns with EMP requirements
+- **Enforcement Track Record:** Likely compliant; not typically scrutinized if EMP followed
+- **Conclusion:** Although compliant, this option is not feasible under current budget constraints. Suitable for long-term strategic planning if production pressures can be reduced.
+
+### Recommended Action:
+Given the current regulatory environment and financial constraints, Option B aligns with immediate production goals but poses significant legal risks. It is critical to immediately consult with legal teams to explore the possibility of securing a temporary waiver. Option C should be kept in consideration for a future-proof strategic approach once immediate production targets are resolved.
+
+### Formal Warning:
+- Remote location and economic dependency do not eliminate legal risk exposure.
+- The Ministry's sporadic inspections can still pose enforcement challenges. Exercise caution due to possible financial penalties in the case of detection.
+- Diplomatic routes and the economic importance of CNPC to Chad may facilitate softer penalties, but this is not guaranteed. Proceed with caution.

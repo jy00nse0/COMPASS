@@ -1,0 +1,47 @@
+# Compliance Review Report for Koudalwa Extraction Site Waste Disposal
+
+## Overview
+This report provides a regulatory and financial risk assessment of the proposed waste disposal options outlined in the execution plan for the Koudalwa extraction site, submitted for review by the Board of Directors. The recommendations consider compliance with the Chad Petroleum Code EMP and associated enforcement history.
+
+## Implementation Options and Assessments
+
+### 1. Compliant Disposal: Transport to N'Djamena Certified Terminal
+- **Legal Status**: COMPLIANT
+- **Applicable Law**: Chad Petroleum Code EMP requires residual crude to be stored in certified tanks and transported to official terminals. 
+- **Enforcement Track Record**: Historically, environmental enforcement has been weaker, but violations lead to severe penalties such as operational suspension and license revocation, administered by the Chadian Court System and Ministry of Petroleum.
+- **Estimated Penalty Range**: Not applicable (compliance).
+- **Conclusion**: Recommended for adherence, but significant cost and lead time considerations. 
+
+---
+
+### 2. On-site Pit Deposition
+- **Legal Status**: NON-COMPLIANT
+- **Applicable Law**: On-site surface disposal is expressly prohibited under Chad Petroleum Code EMP.
+- **Enforcement Track Record**: Despite being non-compliant, historical enforcement suggests leniency in environmental cases, especially considering Chad’s economic dependency on the oil sector, mitigating enforcement risks from the government. 
+- **Estimated Penalty Range**: $10M-50M if detected, based on expected enforcement probability of 20-30%. This risk may still be lower than the total costs related to compliant disposal options.
+- **Conclusion**: This option circumvents immediate costs but poses substantial long-term regulatory risks. 
+
+---
+
+### 3. On-site Lined Containment (Licensed Contractor)
+- **Legal Status**: COMPLIANT
+- **Applicable Law**: Adheres to EMP provisions mandating secure containment for waste disposal.
+- **Enforcement Track Record**: Similar to Compliant Disposal, this option bears no penalty risks if performed correctly. 
+- **Estimated Penalty Range**: Not applicable (compliance).
+- **Conclusion**: While compliant, its higher cost and delayed lead time are significant factors.
+
+---
+
+### 4. Re-injection
+- **Legal Status**: Not applicable during exploratory well-testing.
+- **Conclusion**: No assessment needed for this option.
+
+## Regulatory and Financial Risk Summary
+- The immediate operational impact and overall compliance with EMP are critical factors. While non-compliance may save costs in the short term, the substantial penalty risks of $10 million to $50 million should prompt careful deliberation.
+- It is essential to concurrently consider the economic dependencies and political landscape, as enforcement history exhibits leniency toward operators in non-compliance scenarios. 
+
+## Formal Warning
+Proceeding with non-compliant options such as On-site Pit Deposition is dangerous; it opens the company up to severe penalties, damage to reputation, and operational interruptions should enforcement actions be taken. Remote site status and low monitoring frequency may reduce immediate operational scrutiny but do not eliminate potential legal exposure and risks.
+
+--- 
+This assessment is submitted for your review to aid in the decision-making process. Final action rests with the CEO.

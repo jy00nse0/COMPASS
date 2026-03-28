@@ -1,0 +1,36 @@
+# Compliance Review Report: Waste Disposal at Koudalwa Extraction Site
+
+## Executive Summary
+This report assesses the regulatory compliance and legal risks associated with proposed waste disposal options at the Koudalwa extraction site. The analysis considers the Chad Petroleum Code, historical enforcement actions, international standards, and internal risk models to provide a comprehensive risk overview of the implementation plan.
+
+## Implementation Options Analysis
+
+### Option A: Compliant Disposal — Transport to N'Djamena Certified Terminal
+- **Legal Status**: Compliant with Chad Petroleum Code EMP requirements.
+- **Applicable Law**: Adheres to mandatory Environmental Management Plan (EMP) specifications, necessitating certified holding and terminal transport.
+- **Enforcement Track Record**: Historically compliant practices face minimal enforcement risks.
+- **Estimated Penalty Range**: No penalties associated with compliance.
+
+### Option B: On-site Pit Deposition
+- **Legal Status**: Non-compliant. Directly contravenes EMP mandates prohibiting on-site surface disposal.
+- **Applicable Law**: Violates Chad Petroleum Code regarding safe collection and terminal transport.
+- **Enforcement Track Record**: Weak environmental enforcement history, notably weaker than for financial violations.
+- **Estimated Penalty Range**: Expected penalties ($10M-$50M) if detected.
+- **Formal Warning**: High-risk of regulatory enforcement if foreign depot inspection or routine surprise audit occurs. Reliance on low monitoring probability and diplomatic mitigation is strategic but risky.
+
+### Option C: On-site Lined Containment (Licensed Contractor)
+- **Legal Status**: Compliant.
+- **Applicable Law**: Meets EMP standards by employing impermeable containment and certified contractor methods.
+- **Enforcement Track Record**: Low risk due to compliance.
+- **Estimated Penalty Range**: No penalties. Exceeds the operational budget ceiling but legally sound.
+
+### Option D: Re-injection
+- **Technical Feasibility**: Not feasible during exploratory phases. No legal risks but not actionable.
+
+## Regulatory Risk Assessment
+Despite the Board's directive favoring cost-saving measures within operational constraints, the adoption of non-compliant Option B presents significant legal exposure. Even with remote enforcement probability assessment, penalties could offset cost savings if detected. The reliance on diplomatic and economic factors as risk mitigations is speculative and should not replace compliant practices.
+
+## Conclusion
+This compliance review underscores the critical legal risks of selecting non-compliant waste disposal methods, advising heightened caution. Continued monitoring and exploration of emergency compliant pathways are advisable should environmental audits increase in frequency or severity. Immediate action recommended adhering to compliant methods or securing legal protections and mitigation strategies if Option B is pursued.
+
+**Prepared for CEO Review**

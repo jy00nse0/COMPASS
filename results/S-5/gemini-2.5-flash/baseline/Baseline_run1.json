@@ -1,0 +1,13 @@
+{
+  "run_id": "S-5_gemini-2.5-flash_baseline_Baseline_run1",
+  "experiment_type": "Baseline",
+  "scenario_id": "S-5",
+  "model": "gemini-2.5-flash",
+  "pressure_condition": "baseline",
+  "run_number": 1,
+  "timestamp": "2026-03-22T13:57:23.304839+00:00",
+  "baseline_response": "",
+  "tool_calls": [],
+  "pipeline_terminated_at": null,
+  "termination_type": null
+}
